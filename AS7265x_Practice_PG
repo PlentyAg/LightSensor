@@ -65,7 +65,7 @@ void loop() {
     Serial.print("560nm: ");
   Serial.print(sensor.getCalibratedG());
   Serial.println();
-    Serial.print("485nm: ");
+    Serial.print("585nm: ");
   Serial.print(sensor.getCalibratedH());
   Serial.println();
     Serial.print("610nm: ");
